@@ -50,11 +50,24 @@ body{
 
 }
 
+.container p:nth-child(4):hover{
+ opacity: 0.6;
+}
 
 .container p:nth-child(5){
     color:hsl(224, 23%, 55%);
     font-weight: 900;
 }
+
+
+.container p:nth-child(5):hover{
+  color: hsl(223, 47%, 23%);
+}
+
+a:hover{
+    opacity: 0.6;
+}
+
 
 .pricing{
     background-color: hsl(225, 100%, 98%);
