@@ -31,8 +31,8 @@ Final Image (images\final.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cosuoji/order-summary-component-main)
+- Live Site URL: [Add live site URL here](https://capable-raindrop-592cb1.netlify.app/)
 
 ## My process
 
